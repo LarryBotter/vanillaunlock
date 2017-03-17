@@ -560,26 +560,26 @@
    /v
    /x
    /fo
-   "C:\Users\Larry\AppData\Local\Temp\lnk{D0C6D323-CD61-42D1-BD84-AD7199518FAC}.tmp"
-   "C:\Users\Larry\AppData\Local\Temp\lnk{360FA6B3-8180-40CC-B2FE-B7DBA0F5A47F}.tmp"
+   "C:\Users\Larry\AppData\Local\Temp\lnk{87BA7E1B-A6EC-4520-A076-82EA1C0113CF}.tmp"
+   "C:\Users\Larry\AppData\Local\Temp\lnk{B5BE1760-5707-4592-BF3E-A5947EC61D44}.tmp"
   Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17336
   
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
   
-  Creating C:\Users\Larry\AppData\Local\Temp\lnk{D0C6D323-CD61-42D1-BD84-AD7199518FAC}.tmp
+  Creating C:\Users\Larry\AppData\Local\Temp\lnk{87BA7E1B-A6EC-4520-A076-82EA1C0113CF}.tmp
   
   Using codepage 1252 as default
   
-  C:\Users\Larry\AppData\Local\Temp\lnk{360FA6B3-8180-40CC-B2FE-B7DBA0F5A47F}.tmp.
+  C:\Users\Larry\AppData\Local\Temp\lnk{B5BE1760-5707-4592-BF3E-A5947EC61D44}.tmp.
   Writing 24:1,	lang:0x409,	size 381
   
   Invoking cvtres.exe:
    /machine:x86
    /verbose
-   /out:"C:\Users\Larry\AppData\Local\Temp\lnk{262A8BB8-CC05-4142-B7B9-2F1977C61F92}.tmp"
+   /out:"C:\Users\Larry\AppData\Local\Temp\lnk{6C4B9F81-6498-4FFD-B61A-8E447E3F9BF1}.tmp"
    /readonly
-   "C:\Users\Larry\AppData\Local\Temp\lnk{D0C6D323-CD61-42D1-BD84-AD7199518FAC}.tmp"
+   "C:\Users\Larry\AppData\Local\Temp\lnk{87BA7E1B-A6EC-4520-A076-82EA1C0113CF}.tmp"
   Microsoft (R) Windows Resource To Object Converter Version 14.00.23506.0
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
